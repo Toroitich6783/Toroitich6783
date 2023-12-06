@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Toritich</h1>
+<h1 align="center">Hi 👋, I'm Luke Toroitich</h1>
 <h3 align="center">Everything to do with Geospatial Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/W9FP9ftKB3YAAAAd/earth-hug.gif">
 
