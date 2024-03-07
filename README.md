@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Geospatial Projects**
 
-- 👨‍💻 All of my projects are available at [https://mosongcodinglab.github.io/Toroitich_Luke_portfolio_II/](https://mosongcodinglab.github.io/Toroitich_Luke_portfolio_II/)
+- 👨‍💻 All of my projects are available at [https://mosongcodinglab.github.io/Toroitich_Luke_portfolio_II/](https://toroitich6783.github.io/Toroitich_Luke_portfolio_II/)
 
 - 💬 Ask me about **Geospatial & Remote sensing|| Python & JS|| Django||SQL||GEE|| GIS Software||AI/ML**
 
